@@ -1,0 +1,20 @@
+# Tomcat
+server:
+  port: 8071
+# Spring
+spring: 
+  application:
+    # 应用名称
+    name: nacos-provider
+  cloud:
+    nacos:
+      discovery:
+        # 服务注册地址
+        server-addr: 127.0.0.1:8848
+      config:
+        # 配置中心地址
+        server-addr:  127.0.0.1:8848
+        namespace: test
+        # 配置文件格式if
+        file-extension: yml
+

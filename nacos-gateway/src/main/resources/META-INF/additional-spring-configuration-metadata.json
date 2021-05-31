@@ -1,0 +1,13 @@
+{
+  "properties": [
+    {
+      "name": "spring.cloud.nacos.gateway.routes",
+      "type": "java.lang.String",
+      "description": "Description for spring.cloud.nacos.gateway.routes."
+    },
+    {
+      "name": "spring.cloud.nacos.gateway.discovery.locator.lower-case-service-id",
+      "type": "java.lang.String",
+      "description": "Description for spring.cloud.nacos.gateway.discovery.locator.lower-case-service-id."
+    }
+  ] }
