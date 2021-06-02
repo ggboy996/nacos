@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/nacos-auth/nacos-auth.iml" filepath="$PROJECT_DIR$/nacos-auth/nacos-auth.iml" />
       <module fileurl="file://$PROJECT_DIR$/nacos-gateway/nacos-gateway.iml" filepath="$PROJECT_DIR$/nacos-gateway/nacos-gateway.iml" />
       <module fileurl="file://$PROJECT_DIR$/nacos-provider/nacos-provider.iml" filepath="$PROJECT_DIR$/nacos-provider/nacos-provider.iml" />
       <module fileurl="file://$PROJECT_DIR$/naocos-consumer/naocos-consumer.iml" filepath="$PROJECT_DIR$/naocos-consumer/naocos-consumer.iml" />
